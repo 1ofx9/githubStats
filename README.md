@@ -24,9 +24,3 @@ A simple way to visualize GitHub profile and repository statistics with automati
 - [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) – Transparent visualization implementation.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) – Inspiration for GitHub statistics visualizations.
 - [GitHub Octicons](https://primer.style/octicons/) – Icons used in the project.
-
----
-
-<p align="center">
-  Made with ❤️ using GitHub Actions
-</p>
